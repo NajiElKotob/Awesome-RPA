@@ -10,6 +10,8 @@ Automate the tedious, repetitive, manual tasks
 * [Pega](https://www.pega.com/) - pega.com
 * [UiPath](https://www.uipath.com/) - uipath.com
 
+## Videos :tv:
+* [What Is RPA - Robotic Process Automation?](https://www.youtube.com/watch?v=9URSbTOE4YI) - Simplilearn
 
 ## Research and Articles
 * [RPA vs. BPA vs. DPA: Compare process automation technologies](https://searchcio.techtarget.com/tip/Process-automation-technologies-evolve-RPA-vs-BPA-vs-DPA)
