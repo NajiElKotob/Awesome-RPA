@@ -5,6 +5,7 @@ Automate the tedious, repetitive, manual tasks
 ```
 
 ## Big Players
+* [Automation Anywhere](https://www.automationanywhere.com/) - automationanywhere.com
 * [Blue Prism](https://www.blueprism.com/) - blueprism.com
 * [Microsoft](http://www.microsoft.com/rpa) - microsoft.com
 * [Redwood](https://www.redwood.com) - redwood.com
