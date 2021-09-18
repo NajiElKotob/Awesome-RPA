@@ -8,6 +8,7 @@ Automate the tedious, repetitive, manual tasks
 ## Big Players
 * [Blue Prism](https://www.blueprism.com/) - blueprism.com
 * [Microsoft](http://www.microsoft.com/rpa) - microsoft.com
+* [Redwood](https://www.redwood.com) - redwood.com
 * [Pega](https://www.pega.com/) - pega.com
 * [UiPath](https://www.uipath.com/) :star: - uipath.com
 
