@@ -23,6 +23,6 @@ Automate the tedious, repetitive, manual tasks
 ## Research and Articles
 * [RPA vs. BPA vs. DPA: Compare process automation technologies](https://searchcio.techtarget.com/tip/Process-automation-technologies-evolve-RPA-vs-BPA-vs-DPA) - techtarget.com
 * [What is RPA? A revolution in business process automation](https://www.cio.com/article/3236451/what-is-rpa-robotic-process-automation-explained.html) - cio.com
-* [Robotic Process Automation Software Reviews and Ratings](https://www.gartner.com/reviews/market/robotic-process-automation-software) - gartner.com
+* [Robotic Process Automation Software Reviews and Ratings](https://www.gartner.com/reviews/market/robotic-process-automation-software) :star: - gartner.com
 
 
