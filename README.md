@@ -30,5 +30,6 @@ Automate the tedious, repetitive, manual tasks
 * No-Code or Low-Code
 * RPA relies on existing application functionalities
 * High-volume
+* 24/7/365
 
 
