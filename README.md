@@ -33,6 +33,7 @@ Automate the tedious, repetitive, manual tasks
 * 24/7/365
 * Rule-based Tasks
 * Highly-Regulated Tasks (GDPR, CCPA)
+* Prone to Human Error
 
 
 
