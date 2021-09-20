@@ -28,3 +28,5 @@ Automate the tedious, repetitive, manual tasks
 
 ## RPA Characteristics
 * No-Code or Low-Code
+* RPA relies on existing application functionalities
+
