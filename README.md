@@ -26,3 +26,5 @@ Automate the tedious, repetitive, manual tasks
 * [Robotic Process Automation Software Reviews and Ratings](https://www.gartner.com/reviews/market/robotic-process-automation-software) :star: - gartner.com
 
 
+## RPA Characteristics
+* No-Code or Low-Code
