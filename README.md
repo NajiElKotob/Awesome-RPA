@@ -31,5 +31,7 @@ Automate the tedious, repetitive, manual tasks
 * RPA relies on existing application functionalities
 * High-volume
 * 24/7/365
+* Rule-based Tasks
+
 
 
