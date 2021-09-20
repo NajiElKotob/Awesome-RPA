@@ -32,6 +32,7 @@ Automate the tedious, repetitive, manual tasks
 * High-volume
 * 24/7/365
 * Rule-based Tasks
+* Highly-Regulated Tasks (GDPR, CCPA)
 
 
 
