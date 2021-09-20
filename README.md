@@ -15,6 +15,8 @@ Automate the tedious, repetitive, manual tasks
 
 ## Videos :tv:
 * [What Is RPA - Robotic Process Automation?](https://www.youtube.com/watch?v=9URSbTOE4YI) - Simplilearn
+* [Robotic Process Automation (Crash Course ~2 Hours)](https://www.youtube.com/watch?v=3zXb8H3odek) - Simplilearn
+
 
 ## Tutorials
 * [Watch video content for developers (UiPath)](https://www.uipath.com/learning/video-tutorials) - uipath.com
@@ -35,6 +37,6 @@ Automate the tedious, repetitive, manual tasks
 * Highly-Regulated Tasks (GDPR, CCPA)
 * Prone to Human Error
 * Interfacing
-
+* SSA (Self-Service Automation)
 
 
