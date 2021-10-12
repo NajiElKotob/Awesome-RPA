@@ -15,6 +15,7 @@ Automate the tedious, repetitive, manual tasks
 * [Pega](https://www.pega.com/) - pega.com
 * [WorkFusion](https://www.workfusion.com/) - workfusion.com
 * [UiPath](https://www.uipath.com/) :star: - uipath.com
+* [AssistEdge](https://www.edgeverve.com/assistedge/)
 
 ## Videos :tv:
 * [What Is RPA - Robotic Process Automation?](https://www.youtube.com/watch?v=9URSbTOE4YI) - Simplilearn
