@@ -56,3 +56,10 @@ Automate the tedious, repetitive, manual tasks
 * Business Analyst -> Identify the critical areas
 * Developer -> Design, Develop and Test
 
+## RPA Governance
+* Strategic Alignment
+* Code of Ethics
+* Tech Stack
+* Data privacy and Security
+
+
