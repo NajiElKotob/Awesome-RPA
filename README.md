@@ -43,6 +43,12 @@ Automate the tedious, repetitive, manual tasks
 * Interfacing
 * SSA (Self-Service Automation)
 
+## Potential Risks
+* Resistance to change
+* Data breach
+* Potential for Errors
+* [Vendor lock-in aka proprietary lock-in](https://en.wikipedia.org/wiki/Vendor_lock-in)
+
 ## Pros/Cons
 ### Pros
 ### Cons
