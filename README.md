@@ -49,6 +49,10 @@ Automate the tedious, repetitive, manual tasks
 * Potential for Errors
 * [Vendor lock-in aka proprietary lock-in](https://en.wikipedia.org/wiki/Vendor_lock-in)
 
-## Pros/Cons
-### Pros
-### Cons
+## Roles
+* CEO -> Go
+* CIO -> COE (Center of Excellence)
+* HR/L&D -> Awarness/Upskill
+* Business Analyst -> Identify the critical areas
+* Developer -> Design, Develop and Test
+
