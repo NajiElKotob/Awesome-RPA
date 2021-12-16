@@ -35,7 +35,7 @@ Automate the tedious, repetitive, manual tasks
 ## RPA Characteristics
 * No-Code or Low-Code
 * RPA relies on existing application functionalities
-* High-volume
+* High-volume/Variable volume
 * 24/7/365
 * Rule-based Tasks
 * Highly-Regulated Tasks (GDPR, CCPA)
