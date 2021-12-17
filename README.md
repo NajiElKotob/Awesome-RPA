@@ -37,6 +37,7 @@ Automate the tedious, repetitive, manual tasks
 * RPA relies on existing application functionalities
 * High-volume/Variable volume
 * 24/7/365
+* Repetitive activities 
 * Rule-based Tasks
 * Highly-Regulated Tasks (GDPR, CCPA)
 * Prone to Human Error
